@@ -1,6 +1,6 @@
 # Cinema_backend_springboot
 
-C'est une application de gestion de cinémas. pour un client qui souhaite réservé des tickets il peut le fait  a partie de cette application
+C'est une application de gestion de cinémas. pour un client qui souhaite réservé des tickets il peut le fait  a partie de cette applicatio.
 pour la mettre sur pied j'ai utilisé les technologie telles que: springboot, springSecurity, itextPDF, JWT, etc ..
 
 ## la page d'accueil de l'application:
